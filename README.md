@@ -2,6 +2,9 @@
 
 This is a simple website created to document technical concepts and provide beginners with a helpful resource for learning various topics. The website follows a specific structure to document different sections, making it easy for users to navigate and find information on the desired topic.
 
+<img width="743" alt="TechnicalDocPage" src="https://github.com/YawBoah/TECHNICAL-DOCUMENTATION-PAGE/assets/126890146/9f8a9091-d385-4077-a9e2-2539d4593ecd">
+
+
 ## Table of Contents
 
 - [Features](#features)
