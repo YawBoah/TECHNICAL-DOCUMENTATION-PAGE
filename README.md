@@ -1,10 +1,9 @@
-# Technical Documentation Website
+# Technical Documentation Page
 
 This is a simple website created to document technical concepts and provide beginners with a helpful resource for learning various topics. The website follows a specific structure to document different sections, making it easy for users to navigate and find information on the desired topic.
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -25,13 +24,13 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository to your local machine using your preferred method (HTTPS or SSH):
 
    ```shell
-   git clone https://github.com/YawBoah/technical-documentation-website.git
+   git clone https://github.com/YawBoah/technical-documentation-page.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd technical-documentation-website
+   cd technical-documentation-page
    ```
 
 3. Open the `index.html` file in your preferred web browser.
