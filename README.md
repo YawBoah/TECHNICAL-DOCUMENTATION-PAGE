@@ -75,8 +75,8 @@ Contributions to this project are welcome! If you'd like to improve the document
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-This survey form template is based on the work of FreeCodeCamp.
+## Acknowledgments
+Special thanks to FreeCodeCamp for their guidance in web development & web responsiveness.
 
 ---
 
