@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Enjoy creating your Technical Documentation Website! If you have any questions or feedback, feel free to reach out.
+Enjoy creating your Technical Documentation Page! If you have any questions or feedback, feel free to reach out.
